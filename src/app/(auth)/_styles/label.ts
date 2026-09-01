@@ -1,0 +1,1 @@
+export const LabelClass = "block text-sm text-zinc-300 mb-2";

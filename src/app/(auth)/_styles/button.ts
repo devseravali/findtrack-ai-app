@@ -1,0 +1,1 @@
+export const ButtonClass = "w-full bg-[#9333EA] flex items-center justify-center rounded-2xl gap-2 py-4 font-semibold cursor-pointer";
